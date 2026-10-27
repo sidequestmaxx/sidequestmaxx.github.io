@@ -2,9 +2,9 @@
 window.SIDEQUEST_QUESTS = [
   {
     "id": "MOD-001",
-    "title": "ASK YOUR CRUSH TO KISS YOU, THEN",
+    "title": "WALK UP TO SOMEONE YOU FIND IRRESISTIBLE AND",
     "difficulty": "MODERATE",
-    "description": "Ask your crush to kiss you, then let the group hear how it went.",
+    "description": "Walk up to someone you find irresistible and ask for a kiss.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -15,9 +15,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-002",
-    "title": "HAVE A REAL CONVERSATION WITH SOMEONE CUTE",
+    "title": "GET A CUTE STRANGER'S NUMBER WITHOUT USING A",
     "difficulty": "MODERATE",
-    "description": "Have a real conversation with someone cute and then ask for their Instagram or number.",
+    "description": "Get a cute stranger's number without using a pickup line.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -28,9 +28,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-003",
-    "title": "ASK AN ATTRACTIVE STRANGER IF YOU CAN",
+    "title": "GIVE YOUR CRUSH A COMPLIMENT THAT MAKES THEM",
     "difficulty": "MODERATE",
-    "description": "Ask an attractive stranger if you can kiss them on the cheek — only do it if they clearly say yes.",
+    "description": "Give your crush a compliment that makes them blush.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -41,9 +41,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-004",
-    "title": "ASK SOMEONE YOU LIKE IF THEY WANT",
+    "title": "ASK SOMEONE ATTRACTIVE TO DANCE WITH YOU FOR",
     "difficulty": "MODERATE",
-    "description": "Ask someone you like if they want to kiss you on the lips.",
+    "description": "Ask someone attractive to dance with you for a full song.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -54,9 +54,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-005",
-    "title": "PULL A FRIEND INTO A CONVERSATION WITH",
+    "title": "REVEAL YOUR BIGGEST DATING RED FLAG TO THE",
     "difficulty": "MODERATE",
-    "description": "Pull a friend into a conversation with someone they’re eyeing and stay just long enough to make it smooth.",
+    "description": "Reveal your biggest dating red flag to the group.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -67,9 +67,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-006",
-    "title": "PICK TWO PEOPLE AND REVEAL WHICH ONE",
+    "title": "CHALLENGE YOUR CRUSH TO A 30-SECOND EYE-CONTACT CONTEST",
     "difficulty": "MODERATE",
-    "description": "Pick two people and reveal which one you'd take on a secret date.",
+    "description": "Challenge your crush to a 30-second eye-contact contest.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -80,9 +80,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-007",
-    "title": "DELIVER THREE DIFFERENT PICKUP LINES TO THE",
+    "title": "TELL THE GROUP WHO YOU WOULD KISS ON",
     "difficulty": "MODERATE",
-    "description": "Deliver three different pickup lines to the same person, making each one better than the last.",
+    "description": "Tell the group who you would kiss on a night out and why.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -93,9 +93,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-008",
-    "title": "TELL SOMEONE YOU FIND THEM SEXY AND",
+    "title": "ASK SOMEONE WHETHER THEY'D GO ON A DATE",
     "difficulty": "MODERATE",
-    "description": "Tell someone you find them sexy and ask what they find sexy about the night so far.",
+    "description": "Ask someone whether they'd go on a date with you.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -106,9 +106,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-009",
-    "title": "GET A STRANGER’S NUMBER OR INSTAGRAM AFTER",
+    "title": "TRADE YOUR MOST EMBARRASSING FLIRTING STORIES WITH ANOTHER",
     "difficulty": "MODERATE",
-    "description": "Get a stranger’s number or Instagram after making them laugh at least twice.",
+    "description": "Trade your most embarrassing flirting stories with another player.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -119,9 +119,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-010",
-    "title": "ASK A CUTE STRANGER IF THEY WANT",
+    "title": "PICK THE PLAYER WITH THE BEST FLIRTING GAME",
     "difficulty": "MODERATE",
-    "description": "Ask a cute stranger if they want to move to a quieter spot or different part of the bar to talk.",
+    "description": "Pick the player with the best flirting game and explain your choice.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -132,9 +132,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-011",
-    "title": "ASK SOMEONE TO DANCE CLOSE WITH YOU",
+    "title": "CHOOSE SOMEONE TO ANSWER THREE BOLD DATING QUESTIONS",
     "difficulty": "MODERATE",
-    "description": "Ask someone to dance close with you for an entire song.",
+    "description": "Choose someone to answer three bold dating questions.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -145,9 +145,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-012",
-    "title": "SPEND FIVE FULL MINUTES IN A CHARGED",
+    "title": "FIND SOMEONE WHO SHARES YOUR CELEBRITY CRUSH AND",
     "difficulty": "MODERATE",
-    "description": "Spend five full minutes in a charged, flirty conversation with someone you’re attracted to.",
+    "description": "Find someone who shares your celebrity crush and compare notes.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -158,9 +158,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-013",
-    "title": "ASK SOMEONE IF YOU CAN SIT ON",
+    "title": "GIVE SOMEONE A FLIRTY COMPLIMENT IN JUST FIVE",
     "difficulty": "MODERATE",
-    "description": "Ask someone if you can sit on their lap for a photo (or vice versa).",
+    "description": "Give someone a flirty compliment in just five words.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -171,9 +171,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-014",
-    "title": "ASK IF A MUTUALLY FLIRTATIOUS PERSON WANTS",
+    "title": "REVEAL THE LAST PERSON YOU HAD A CRUSH",
     "difficulty": "MODERATE",
-    "description": "Ask if a mutually flirtatious person wants to hear a cheeky whisper; share something playful only if they say yes.",
+    "description": "Reveal the last person you had a crush on.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -184,9 +184,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-015",
-    "title": "GET TWO PEOPLE WHO DON’T KNOW EACH",
+    "title": "INVITE YOUR CRUSH TO A SLOW DANCE, EVEN",
     "difficulty": "MODERATE",
-    "description": "Get two people who don’t know each other talking because you think they’d click.",
+    "description": "Invite your crush to a slow dance, even if the music is fast.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -197,9 +197,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-016",
-    "title": "CONFESS YOUR BOLDEST CELEBRITY CRUSH AND THE",
+    "title": "TELL A STRANGER YOUR CHEESIEST PICKUP LINE WITH",
     "difficulty": "MODERATE",
-    "description": "Confess your boldest celebrity crush and the wildest date you'd plan.",
+    "description": "Tell a stranger your cheesiest pickup line with complete confidence.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -210,9 +210,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-017",
-    "title": "INVITE A MUTUALLY INTERESTED ADULT TO A",
+    "title": "SEND AN INNOCENT BUT BOLD 'THINKING OF YOU'",
     "difficulty": "MODERATE",
-    "description": "Invite a mutually interested adult to a consensual kiss; only kiss if they freely want to.",
+    "description": "Send an innocent but bold 'thinking of you' message to your crush.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -223,9 +223,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-018",
-    "title": "ASK A STRANGER TO SHOW YOU THEIR",
+    "title": "FIND SOMEONE WHO WOULD AGREE TO A SPONTANEOUS",
     "difficulty": "MODERATE",
-    "description": "Ask a stranger to show you their best “fuck me” eyes and then show them yours.",
+    "description": "Find someone who would agree to a spontaneous coffee date.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -236,9 +236,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-019",
-    "title": "TRADE A PIECE OF CLOTHING OR ACCESSORY",
+    "title": "NAME YOUR MOST UNEXPECTED ROMANTIC TYPE AND DEFEND",
     "difficulty": "MODERATE",
-    "description": "Trade a piece of clothing or accessory with someone cute for the rest of the time at that bar.",
+    "description": "Name your most unexpected romantic type and defend it.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -249,9 +249,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-020",
-    "title": "TELL SOMEONE EXACTLY WHAT YOU’D DO WITH",
+    "title": "ASK SOMEONE TO CHOOSE BETWEEN A KISS, A",
     "difficulty": "MODERATE",
-    "description": "Tell someone exactly what you’d do with them if the night went perfectly — keep it hot but respectful.",
+    "description": "Ask someone to choose between a kiss, a dance, or a date with you.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -262,9 +262,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-021",
-    "title": "CHALLENGE YOUR CRUSH TO A THIRTY-SECOND EYE-CONTACT",
+    "title": "GIVE THE GROUP YOUR RANKING OF THE THREE",
     "difficulty": "MODERATE",
-    "description": "Challenge your crush to a thirty-second eye-contact showdown.",
+    "description": "Give the group your ranking of the three best first-date ideas.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -275,9 +275,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-022",
-    "title": "ASK SOMEONE IF THEY WOULD ENJOY A",
+    "title": "FIND A STRANGER WHO CAN MAKE YOU LAUGH",
     "difficulty": "MODERATE",
-    "description": "Ask someone if they would enjoy a gentle neck or collarbone kiss; only proceed with a clear yes, without biting.",
+    "description": "Find a stranger who can make you laugh in under a minute.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -288,9 +288,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-023",
-    "title": "INTRODUCE YOURSELF TO SOMEONE HOT BY SAYING",
+    "title": "TELL THE GROUP ABOUT THE BOLDEST FIRST MOVE",
     "difficulty": "MODERATE",
-    "description": "Introduce yourself to someone hot by saying “I’m trying to find the most interesting person here and I think it might be you.”",
+    "description": "Tell the group about the boldest first move you've made.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -301,9 +301,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-024",
-    "title": "SHARE A FLIRTY CONVERSATION WITH COMFORTABLE, MUTUALLY",
+    "title": "ASK YOUR CRUSH FOR A SELFIE TOGETHER",
     "difficulty": "MODERATE",
-    "description": "Share a flirty conversation with comfortable, mutually welcomed eye contact and personal space.",
+    "description": "Ask your crush for a selfie together.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -314,9 +314,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-025",
-    "title": "ASK A CUTE STRANGER TO LEAVE WITH",
+    "title": "PLAY FIVE ROUNDS OF RAPID-FIRE 'KISS, DATE, PASS'",
     "difficulty": "MODERATE",
-    "description": "Ask a cute stranger to leave with your group to the next bar.",
+    "description": "Play five rounds of rapid-fire 'kiss, date, pass' with celebrity names.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -327,9 +327,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-026",
-    "title": "GET SOMEONE'S NUMBER BY THE END OF",
+    "title": "ASK A PLAYER THEIR BEST STORY ABOUT A",
     "difficulty": "MODERATE",
-    "description": "Get someone's number by the end of the night, without using a pickup line.",
+    "description": "Ask a player their best story about a disastrous first date.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -340,9 +340,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-027",
-    "title": "KISS SOMEONE ON THE HAND IN A",
+    "title": "CHALLENGE SOMEONE TO INVENT A WILDLY FLIRTY NICKNAME",
     "difficulty": "MODERATE",
-    "description": "Kiss someone on the hand in a deliberately slow, charged way after asking.",
+    "description": "Challenge someone to invent a wildly flirty nickname for you.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -353,9 +353,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-028",
-    "title": "OFFER TO INTRODUCE A SHY FRIEND TO",
+    "title": "GET A STRANGER TO RATE YOUR PICKUP LINE",
     "difficulty": "MODERATE",
-    "description": "Offer to introduce a shy friend to someone they like, but only if your friend genuinely wants the help.",
+    "description": "Get a stranger to rate your pickup line out of ten.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -366,9 +366,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-029",
-    "title": "ASK AN ATTRACTIVE STRANGER WHAT THEIR FAVOURITE",
+    "title": "REVEAL THE MOST DRAMATIC THING YOU'VE DONE FOR",
     "difficulty": "MODERATE",
-    "description": "Ask an attractive stranger what their favourite way to be kissed is.",
+    "description": "Reveal the most dramatic thing you've done for a crush.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -379,9 +379,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-030",
-    "title": "HAVE A CONFIDENT, MUTUALLY WELCOME FLIRTY CONVERSATION",
+    "title": "LET THE GROUP DRAFT ONE DARING BUT RESPECTFUL",
     "difficulty": "MODERATE",
-    "description": "Have a confident, mutually welcome flirty conversation for seven minutes; either person can end it at any time.",
+    "description": "Let the group draft one daring but respectful opener for you to deliver.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -392,9 +392,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-031",
-    "title": "LET THE GROUP PICK SOMEONE FOR YOU",
+    "title": "IF YOU'VE EVER KISSED ON A FIRST DATE",
     "difficulty": "MODERATE",
-    "description": "Let the group pick someone for you to deliver your boldest flirtation to.",
+    "description": "If you've ever kissed on a first date, take an optional sip or reveal the story.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -405,9 +405,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-032",
-    "title": "GET A STRANGER TO TEACH YOU HOW",
+    "title": "IF YOU'VE EVER TEXTED AN EX AFTER MIDNIGHT",
     "difficulty": "MODERATE",
-    "description": "Get a stranger to teach you how they like to be touched on the arm or back while talking.",
+    "description": "If you've ever texted an ex after midnight, take an optional sip or confess why.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -418,9 +418,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-033",
-    "title": "MAKE A DIRECT OFFER: “I WANT TO",
+    "title": "ASK EVERYONE WHO HAS EVER HAD A SECRET",
     "difficulty": "MODERATE",
-    "description": "Make a direct offer: “I want to kiss you right now — yes or no?”",
+    "description": "Ask everyone who has ever had a secret crush on a friend to raise a hand; optional sip.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -431,9 +431,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-034",
-    "title": "INVITE SOMEONE TO A QUIETER PUBLIC PLACE",
+    "title": "PLAY NEVER HAVE I EVER: 'I'VE FLIRTED WITH",
     "difficulty": "MODERATE",
-    "description": "Invite someone to a quieter public place to chat; go only if they freely agree.",
+    "description": "Play Never Have I Ever: 'I've flirted with two people in the same night.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -444,9 +444,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-035",
-    "title": "ASK A CUTE PERSON TO SWAP INSTAGRAM",
+    "title": "PLAY NEVER HAVE I EVER: 'I'VE HAD A",
     "difficulty": "MODERATE",
-    "description": "Ask a cute person to swap Instagram stories or take a joint photo that looks intimate.",
+    "description": "Play Never Have I Ever: 'I've had a holiday romance.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -457,9 +457,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-036",
-    "title": "TELL SOMEONE EXACTLY WHAT MADE THEM CATCH",
+    "title": "PICK TWO FRIENDS: WHO GIVES BETTER DATING ADVICE",
     "difficulty": "MODERATE",
-    "description": "Tell someone exactly what made them catch your eye tonight.",
+    "description": "Pick two friends: who gives better dating advice? Loser chooses an optional sip or story.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -470,9 +470,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-037",
-    "title": "GET TWO CONSENSUAL CHEEK KISSES AND ONE",
+    "title": "INVITE A PLAYER TO TRADE JUICY DATING CONFESSIONS",
     "difficulty": "MODERATE",
-    "description": "Get two consensual cheek kisses and one consensual lip kiss in the same venue.",
+    "description": "Invite a player to trade juicy dating confessions; optional sip for a pass.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -483,9 +483,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-038",
-    "title": "ASK SOMEONE IF THEY WANT TO DANCE",
+    "title": "REVEAL AN EMBARRASSING DATE MEMORY OR TAKE AN",
     "difficulty": "MODERATE",
-    "description": "Ask someone if they want to dance close. Only move closer if they clearly agree.",
+    "description": "Reveal an embarrassing date memory or take an optional sip.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -496,9 +496,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-039",
-    "title": "ASK A STRANGER TO DESCRIBE THEIR IDEAL",
+    "title": "ASK SOMEONE WHICH FAMOUS PERSON THEY WOULD MARRY",
     "difficulty": "MODERATE",
-    "description": "Ask a stranger to describe their ideal one-night-stand energy and match that energy in the conversation.",
+    "description": "Ask someone which famous person they would marry tomorrow.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -509,9 +509,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-040",
-    "title": "HAVE A CONVERSATION WHERE YOU BOTH ADMIT",
+    "title": "LET ANOTHER PLAYER SET YOU A FLIRTY COMPLIMENT",
     "difficulty": "MODERATE",
-    "description": "Have a conversation where you both admit one thing you’re horny for tonight.",
+    "description": "Let another player set you a flirty compliment challenge.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -522,9 +522,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-041",
-    "title": "ASK SOMEONE TO JOIN YOU FOR A",
+    "title": "TELL THE GROUP WHICH SONG REMINDS YOU OF",
     "difficulty": "MODERATE",
-    "description": "Ask someone to join you for a private two-minute conversation.",
+    "description": "Tell the group which song reminds you of your most dramatic crush.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -535,9 +535,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-042",
-    "title": "GET A STRANGER TO LET YOU FIX",
+    "title": "ASK SOMEONE OUT USING ONLY A MOVIE QUOTE",
     "difficulty": "MODERATE",
-    "description": "Get a stranger to let you fix or adjust something on their outfit in a slow, deliberate way.",
+    "description": "Ask someone out using only a movie quote.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -548,9 +548,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-043",
-    "title": "TELL A PERSON YOU FIND THEM MAGNETIC",
+    "title": "GET SOMEONE TO ADMIT THEIR MOST IRRATIONAL DATING",
     "difficulty": "MODERATE",
-    "description": "Tell a person you find them magnetic and ask if they feel any pull back.",
+    "description": "Get someone to admit their most irrational dating dealbreaker.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -561,9 +561,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-044",
-    "title": "KISS SOMEONE, THEN IMMEDIATELY ASK IF THEY",
+    "title": "NAME THE BOLDEST THING YOU'VE EVER WORN ON",
     "difficulty": "MODERATE",
-    "description": "Kiss someone, then immediately ask if they want another one.",
+    "description": "Name the boldest thing you've ever worn on a date.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -574,9 +574,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-045",
-    "title": "START A CONVERSATION WITH “BE HONEST —",
+    "title": "PICK A PLAYER TO ASK YOU ONE SPICY",
     "difficulty": "MODERATE",
-    "description": "Start a conversation with “Be honest — are you single and looking for trouble tonight?”",
+    "description": "Pick a player to ask you one spicy dating question.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -587,9 +587,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-046",
-    "title": "LET THE GROUP ASK YOU THREE REVEALING",
+    "title": "TELL THE GROUP WHICH FRIEND WOULD BE THE",
     "difficulty": "MODERATE",
-    "description": "Let the group ask you three revealing dating questions. Answer all three.",
+    "description": "Tell the group which friend would be the best wingperson.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -600,9 +600,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-047",
-    "title": "ASK AN ATTRACTIVE STRANGER TO SHOW YOU",
+    "title": "GET TWO PLAYERS TO DEBATE WHETHER AN EX",
     "difficulty": "MODERATE",
-    "description": "Ask an attractive stranger to show you the most confident walk they’ve got, then do yours.",
+    "description": "Get two players to debate whether an ex deserves a second chance.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -613,9 +613,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-048",
-    "title": "ASK SOMEONE YOU LIKE TO SHARE A",
+    "title": "REVEAL YOUR BEST LATE-NIGHT TEXTING MISTAKE OR TAKE",
     "difficulty": "MODERATE",
-    "description": "Ask someone you like to share a consensual kiss in a comfortable, venue-appropriate space.",
+    "description": "Reveal your best late-night texting mistake or take an optional sip.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -626,9 +626,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-049",
-    "title": "ASK A PERSON WHAT WOULD MAKE THEM",
+    "title": "CHALLENGE SOMEONE TO MAINTAIN EYE CONTACT WHILE YOU",
     "difficulty": "MODERATE",
-    "description": "Ask a person what would make them leave with someone tonight.",
+    "description": "Challenge someone to maintain eye contact while you give a sincere compliment.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -639,9 +639,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-050",
-    "title": "FLIRT BY MAKING A LIGHT-HEARTED BET THAT",
+    "title": "ASK YOUR CRUSH FOR THE SONG THEY'D CHOOSE",
     "difficulty": "MODERATE",
-    "description": "Flirt by making a light-hearted bet that ends in asking for a number; acceptance is completely optional.",
+    "description": "Ask your crush for the song they'd choose for a first dance.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -652,9 +652,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-051",
-    "title": "TELL THE GROUP ABOUT THE MOST UNEXPECTED",
+    "title": "CONFESS THE WEIRDEST REASON YOU'VE EVER FOUND SOMEONE",
     "difficulty": "MODERATE",
-    "description": "Tell the group about the most unexpected person you've ever fancied.",
+    "description": "Confess the weirdest reason you've ever found someone attractive.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -665,9 +665,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-052",
-    "title": "SPEND TIME WITH ONE PERSON UNTIL THE",
+    "title": "NOMINATE SOMEONE TO INVENT A DRAMATIC ROMANTIC PLOT",
     "difficulty": "MODERATE",
-    "description": "Spend time with one person until the sexual tension is obvious to anyone watching.",
+    "description": "Nominate someone to invent a dramatic romantic plot about you.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -678,9 +678,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-053",
-    "title": "ASK SOMEONE IF THEY WANT TO PLAY",
+    "title": "ASK THREE FRIENDS FOR THEIR MOST CONTROVERSIAL FIRST-DATE",
     "difficulty": "MODERATE",
-    "description": "Ask someone if they want to play a quick game where the loser has to do a dare (keep the dare adult).",
+    "description": "Ask three friends for their most controversial first-date opinions.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -691,9 +691,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-054",
-    "title": "GET A CUTE STRANGER TO LET YOU",
+    "title": "REVEAL A TIME YOUR FLIRTING BACKFIRED SPECTACULARLY",
     "difficulty": "MODERATE",
-    "description": "Get a cute stranger to let you put your jacket or hoodie on them for a bit.",
+    "description": "Reveal a time your flirting backfired spectacularly.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -704,9 +704,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-055",
-    "title": "TELL SOMEONE “I’M NOT GOING TO BE",
+    "title": "MAKE A BOLD PREDICTION ABOUT WHO IN THE",
     "difficulty": "MODERATE",
-    "description": "Tell someone “I’m not going to be subtle — I want your attention for the next ten minutes.”",
+    "description": "Make a bold prediction about who in the group will go on a date next.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -717,9 +717,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-056",
-    "title": "PLAY A ROUND OF 'MOST LIKELY TO'",
+    "title": "LET THE GROUP PICK A HARMLESS FLIRTY QUESTION",
     "difficulty": "MODERATE",
-    "description": "Play a round of 'most likely to' with three spicy relationship questions.",
+    "description": "Let the group pick a harmless flirty question for you to ask someone.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -730,9 +730,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-057",
-    "title": "HAVE TWO SEPARATE MAKEOUT SESSIONS WITH TWO",
+    "title": "GIVE THE GROUP YOUR BEST IMPRESSION OF A",
     "difficulty": "MODERATE",
-    "description": "Have two separate makeout sessions with two different people in one venue.",
+    "description": "Give the group your best impression of a terrible dating-app bio.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -743,9 +743,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-058",
-    "title": "ASK SOMEONE TO RATE THE KISS YOU",
+    "title": "REVEAL WHETHER YOU'VE EVER CAUGHT FEELINGS AFTER ONE",
     "difficulty": "MODERATE",
-    "description": "Ask someone to rate the kiss you just gave them and then improve it if they want.",
+    "description": "Reveal whether you've ever caught feelings after one date; optional sip if yes.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -756,9 +756,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-059",
-    "title": "GET A STRANGER TO AGREE TO MEET",
+    "title": "ASK A FRIEND WHAT ROMANTIC DARE THEY'D ACTUALLY",
     "difficulty": "MODERATE",
-    "description": "Get a stranger to agree to meet you at the next bar specifically.",
+    "description": "Ask a friend what romantic dare they'd actually attempt tonight.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -769,9 +769,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "MOD-060",
-    "title": "END AN INTERACTION BY SAYING “I’M GOING",
+    "title": "TELL SOMEONE YOU'D LOVE TO SEE THEM AGAIN",
     "difficulty": "MODERATE",
-    "description": "End an interaction by saying “I’m going to think about this later” and walking away while the tension is high.",
+    "description": "Tell someone you'd love to see them again, and mean it.",
     "completion": "Complete the challenge.",
     "points": 3,
     "tags": [
@@ -782,9 +782,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-001",
-    "title": "TELL THE GROUP THE MOST SCANDALOUS THING",
+    "title": "NAME THE PERSON IN THE ROOM YOU HAVE",
     "difficulty": "BLACK",
-    "description": "Tell the group the most scandalous thing you've ever done on a date.",
+    "description": "Name the person in the room you have the strongest chemistry with.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -795,9 +795,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-002",
-    "title": "ASK THE HOTTEST PERSON YOU CAN SEE",
+    "title": "REVEAL THE WILDEST PLACE YOU'VE EVER KISSED SOMEONE",
     "difficulty": "BLACK",
-    "description": "Ask the hottest person you can see if you can sit on their lap for five minutes while you talk.",
+    "description": "Reveal the wildest place you've ever kissed someone.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -808,9 +808,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-003",
-    "title": "ASK A MUTUALLY INTERESTED ADULT IF THEY",
+    "title": "ASK THE PERSON YOU'RE MOST ATTRACTED TO FOR",
     "difficulty": "BLACK",
-    "description": "Ask a mutually interested adult if they would enjoy a gentle neck kiss,",
+    "description": "Ask the person you're most attracted to for a kiss.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -821,9 +821,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-004",
-    "title": "CHOOSE TWO PLAYERS FOR A NO-FILTER ROUND",
+    "title": "PICK TWO PLAYERS FOR AN UNFILTERED ROUND OF",
     "difficulty": "BLACK",
-    "description": "Choose two players for a no-filter round of three spicy dating questions.",
+    "description": "Pick two players for an unfiltered round of dating confessions.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -834,9 +834,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-005",
-    "title": "INVITE A WILLING GROUP TO A SILLY",
+    "title": "REVEAL THE SECRET CRUSH YOU'VE KEPT QUIET ABOUT",
     "difficulty": "BLACK",
-    "description": "Invite a willing group to a silly kiss-chain idea; with no pressure or touching required.",
+    "description": "Reveal the secret crush you've kept quiet about the longest.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -847,9 +847,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-006",
-    "title": "ASK SOMEONE YOU FIND EXTREMELY HOT TO",
+    "title": "TELL THE GROUP ABOUT YOUR MOST SCANDALOUS DATE",
     "difficulty": "BLACK",
-    "description": "Ask someone you find extremely hot to grind on you (or vice versa) for a full song.",
+    "description": "Tell the group about your most scandalous date without naming anyone.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -860,9 +860,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-007",
-    "title": "TELL THE GROUP WHO HERE YOU'D MOST",
+    "title": "LET THREE PLAYERS ASK YOU ONE OUTRAGEOUS RELATIONSHIP",
     "difficulty": "BLACK",
-    "description": "Tell the group who here you'd most want to kiss and why.",
+    "description": "Let three players ask you one outrageous relationship question each.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -873,9 +873,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-008",
-    "title": "IN A MUTUALLY WELCOMED ADULT FLIRTATION, ASK",
+    "title": "PICK THE PERSON YOU'D TAKE ON A SPONTANEOUS",
     "difficulty": "BLACK",
-    "description": "In a mutually welcomed adult flirtation, ask if the other person wants to hear your boldest fantasy. Share only if they explicitly opt in.",
+    "description": "Pick the person you'd take on a spontaneous weekend away and explain why.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -886,9 +886,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-009",
-    "title": "ASK SOMEONE IF YOU CAN PUT YOUR",
+    "title": "ASK SOMEONE TO DANCE CLOSE WITH YOU FOR",
     "difficulty": "BLACK",
-    "description": "Ask someone if you can put your hand in their back pocket while you talk and keep it there.",
+    "description": "Ask someone to dance close with you for a full song.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -899,9 +899,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-010",
-    "title": "LET THE GROUP CHOOSE THREE PEOPLE. RANK",
+    "title": "REVEAL THE MOST OUTRAGEOUS EXCUSE YOU'VE USED TO",
     "difficulty": "BLACK",
-    "description": "Let the group choose three people. Rank their flirting skills, then explain your choices.",
+    "description": "Reveal the most outrageous excuse you've used to leave a date.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -912,9 +912,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-011",
-    "title": "GET A STRANGER TO LET YOU BITE",
+    "title": "TELL EVERYONE ABOUT A ROMANTIC ENCOUNTER THAT FELT",
     "difficulty": "BLACK",
-    "description": "Get a stranger to let you bite their lower lip during a kiss.",
+    "description": "Tell everyone about a romantic encounter that felt like a movie scene.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -925,9 +925,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-012",
-    "title": "ASK THE MOST ATTRACTIVE PERSON IN THE",
+    "title": "PICK TWO PLAYERS AND ASK WHO WOULD SURVIVE",
     "difficulty": "BLACK",
-    "description": "Ask the most attractive person in the room if they want to leave the bar with you for 15 minutes “to do something bad.”",
+    "description": "Pick two players and ask who would survive a chaotic blind date together.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -938,9 +938,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-013",
-    "title": "REVEAL YOUR MOST CHAOTIC ROMANTIC ENCOUNTER IN",
+    "title": "CONFESS THE MOST UNEXPECTED PERSON YOU'VE EVER BEEN",
     "difficulty": "BLACK",
-    "description": "Reveal your most chaotic romantic encounter in sixty seconds.",
+    "description": "Confess the most unexpected person you've ever been attracted to.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -951,9 +951,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-014",
-    "title": "ASK AN INTERESTED ADULT IF THEY WOULD",
+    "title": "CHOOSE SOMEONE AND TRADE YOUR BIGGEST DATING SECRETS",
     "difficulty": "BLACK",
-    "description": "Ask an interested adult if they would like to share a cheeky dating story; let them choose how much to say.",
+    "description": "Choose someone and trade your biggest dating secrets.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -964,9 +964,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-015",
-    "title": "AFTER AN INVITED KISS, ASK IF THEY",
+    "title": "TELL THE GROUP THE BOLDEST LATE-NIGHT MESSAGE YOU'VE",
     "difficulty": "BLACK",
-    "description": "After an invited kiss, ask if they enjoyed it; only offer another if they actively want one.",
+    "description": "Tell the group the boldest late-night message you've ever sent.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -977,9 +977,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-016",
-    "title": "ASK SOMEONE YOU'RE ATTRACTED TO FOR A",
+    "title": "INVITE YOUR CRUSH TO A PRIVATE TWO-MINUTE CONVERSATION",
     "difficulty": "BLACK",
-    "description": "Ask someone you're attracted to for a kiss.",
+    "description": "Invite your crush to a private two-minute conversation.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -990,9 +990,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-017",
-    "title": "START A CONVERSATION BY SAYING “I’M TRYING",
+    "title": "REVEAL YOUR MOST INTENSE FIRST-DATE CHEMISTRY STORY",
     "difficulty": "BLACK",
-    "description": "Start a conversation by saying “I’m trying to get someone to fuck me tonight — any interest or advice?”",
+    "description": "Reveal your most intense first-date chemistry story.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1003,9 +1003,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-018",
-    "title": "INVITE TWO WILLING FRIENDS TO PERFORM A",
+    "title": "ASK THE GROUP WHICH TWO PEOPLE WOULD MAKE",
     "difficulty": "BLACK",
-    "description": "Invite two willing friends to perform a theatrical, fully optional romantic scene, without requiring a kiss.",
+    "description": "Ask the group which two people would make the most unlikely couple.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1016,9 +1016,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-019",
-    "title": "PICK A PLAYER AND TRADE YOUR MOST",
+    "title": "CONFESS THE BIGGEST ROMANTIC RISK YOU'VE EVER TAKEN",
     "difficulty": "BLACK",
-    "description": "Pick a player and trade your most outrageous dating confessions.",
+    "description": "Confess the biggest romantic risk you've ever taken.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1029,9 +1029,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-020",
-    "title": "INVITE A MUTUALLY INTERESTED PERSON TO A",
+    "title": "TELL THE STORY OF A KISS YOU STILL",
     "difficulty": "BLACK",
-    "description": "Invite a mutually interested person to a consensual kiss without turning it into a performance for friends.",
+    "description": "Tell the story of a kiss you still remember.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1042,9 +1042,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-021",
-    "title": "GET A STRANGER TO LET YOU PUT",
+    "title": "PICK THE PERSON WHO COULD GET YOUR NUMBER",
     "difficulty": "BLACK",
-    "description": "Get a stranger to let you put your leg between theirs while standing and talking.",
+    "description": "Pick the person who could get your number with one sentence.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1055,9 +1055,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-022",
-    "title": "START A ROUND OF NEVER HAVE I",
+    "title": "ASK SOMEONE YOU'VE BEEN EYEING IF THEY'D GO",
     "difficulty": "BLACK",
-    "description": "Start a round of Never Have I Ever with three spicy relationship revelations.",
+    "description": "Ask someone you've been eyeing if they'd go on a date with you.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1068,9 +1068,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-023",
-    "title": "INVITE A WILLING ADULT TO JOIN YOUR",
+    "title": "REVEAL YOUR MOST CHAOTIC LOVE-TRIANGLE EXPERIENCE",
     "difficulty": "BLACK",
-    "description": "Invite a willing adult to join your mischievous two-person team for 20 minutes. Either of you can leave whenever you want.",
+    "description": "Reveal your most chaotic love-triangle experience.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1081,9 +1081,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-024",
-    "title": "ASK A WILLING ADULT TO SHOW OFF",
+    "title": "LET THE GROUP GUESS YOUR MOST UNEXPECTED ROMANTIC",
     "difficulty": "BLACK",
-    "description": "Ask a willing adult to show off a bold fashion detail they feel comfortable sharing — no exposing underwear.",
+    "description": "Let the group guess your most unexpected romantic type, then reveal it.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1094,9 +1094,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-025",
-    "title": "ASK SOMEONE TO DANCE CLOSE WITH YOU",
+    "title": "DESCRIBE YOUR DREAM SCANDALOUS-BUT-LEGAL DATE NIGHT",
     "difficulty": "BLACK",
-    "description": "Ask someone to dance close with you for one entire song.",
+    "description": "Describe your dream scandalous-but-legal date night.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1107,9 +1107,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-026",
-    "title": "ASK A MUTUALLY FLIRTY ADULT IF THEY",
+    "title": "TELL THE GROUP WHICH FAMOUS COUPLE YOU'D NEVER",
     "difficulty": "BLACK",
-    "description": "Ask a mutually flirty adult if they would like to hear one minute of cheeky compliments. They can interrupt or stop whenever.",
+    "description": "Tell the group which famous couple you'd never want to be like.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1120,9 +1120,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-027",
-    "title": "ASK THE HOTTEST STRANGER YOU SEE IF",
+    "title": "PICK SOMEONE TO ASK YOU THE BOLDEST QUESTION",
     "difficulty": "BLACK",
-    "description": "Ask the hottest stranger you see if they want to roleplay being strangers who are about to leave together.",
+    "description": "Pick someone to ask you the boldest question they can think of about dating.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1133,9 +1133,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-028",
-    "title": "TELL THE GROUP ABOUT A SECRET CRUSH",
+    "title": "REVEAL A ROMANTIC SECRET THAT WOULD SURPRISE YOUR",
     "difficulty": "BLACK",
-    "description": "Tell the group about a secret crush you've never admitted before.",
+    "description": "Reveal a romantic secret that would surprise your friends.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1146,9 +1146,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-029",
-    "title": "GET TWO ATTRACTIVE STRANGERS TO BOTH KISS",
+    "title": "ASK THE GROUP TO GUESS WHETHER YOU'VE EVER",
     "difficulty": "BLACK",
-    "description": "Get two attractive strangers to both kiss you on the cheek or lips in the same interaction.",
+    "description": "Ask the group to guess whether you've ever dated two people in one week.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1159,9 +1159,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-030",
-    "title": "TELL A STRANGER YOU’RE HORNY AND ASK",
+    "title": "CHOOSE SOMEONE YOU'D TRUST TO SET YOU UP",
     "difficulty": "BLACK",
-    "description": "Tell a stranger you’re horny and ask them what they think you should do about it right now.",
+    "description": "Choose someone you'd trust to set you up on a blind date.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1172,9 +1172,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-031",
-    "title": "CHOOSE THREE PEOPLE AND ASK EACH THEIR",
+    "title": "NEVER HAVE I EVER: 'I'VE KISSED TWO DIFFERENT",
     "difficulty": "BLACK",
-    "description": "Choose three people and ask each their most controversial dating opinion.",
+    "description": "Never Have I Ever: 'I've kissed two different people in one night.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1185,9 +1185,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-032",
-    "title": "ASK A MUTUALLY INTERESTED ADULT FOR A",
+    "title": "NEVER HAVE I EVER: 'I'VE HAD A SECRET",
     "difficulty": "BLACK",
-    "description": "Ask a mutually interested adult for a kiss somewhere comfortable and appropriate for the venue.",
+    "description": "Never Have I Ever: 'I've had a secret crush on someone in this group.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1198,9 +1198,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-033",
-    "title": "GET A STRANGER TO GRIND THEIR ASS",
+    "title": "NEVER HAVE I EVER: 'I'VE SENT A MESSAGE",
     "difficulty": "BLACK",
-    "description": "Get a stranger to grind their ass on you or vice versa for at least 40 seconds.",
+    "description": "Never Have I Ever: 'I've sent a message I instantly regretted after midnight.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1211,9 +1211,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-034",
-    "title": "LET THE GROUP CHOOSE SOMEONE FOR YOU",
+    "title": "NEVER HAVE I EVER: 'I'VE KISSED SOMEONE WHOSE",
     "difficulty": "BLACK",
-    "description": "Let the group choose someone for you to flirt with for two minutes.",
+    "description": "Never Have I Ever: 'I've kissed someone whose name I didn't know.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1224,9 +1224,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-035",
-    "title": "START A BOLD BUT RESPECTFUL DARE CIRCLE",
+    "title": "NEVER HAVE I EVER: 'I'VE GONE ON A",
     "difficulty": "BLACK",
-    "description": "Start a bold but respectful dare circle with at least four willing adults. Everyone can pass any dare without explanation.",
+    "description": "Never Have I Ever: 'I've gone on a date purely for the plot.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1237,9 +1237,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-036",
-    "title": "ASK A MUTUALLY INTERESTED PERSON IF THEY",
+    "title": "NEVER HAVE I EVER: 'I'VE HOOKED UP WITH",
     "difficulty": "BLACK",
-    "description": "Ask a mutually interested person if they would enjoy a gentle neck kiss, with no mark left behind.",
+    "description": "Never Have I Ever: 'I've hooked up with someone I met that same night.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1250,9 +1250,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-037",
-    "title": "TELL THE GROUP THE MOST SCANDALOUS THING",
+    "title": "NEVER HAVE I EVER: 'I'VE HAD A FRIENDS-TO-LOVERS",
     "difficulty": "BLACK",
-    "description": "Tell the group the most scandalous thing you've ever done on a date.",
+    "description": "Never Have I Ever: 'I've had a friends-to-lovers moment.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1263,9 +1263,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-038",
-    "title": "MAKE OUT WITH SOMEONE AND INTENTIONALLY MAKE",
+    "title": "NEVER HAVE I EVER: 'I'VE RECONNECTED WITH AN",
     "difficulty": "BLACK",
-    "description": "Make out with someone and intentionally make it as loud and wet as they’re okay with.",
+    "description": "Never Have I Ever: 'I've reconnected with an ex and kept it secret.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1276,9 +1276,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-039",
-    "title": "INVITE A WILLING PERSON TO POSE FOR",
+    "title": "NEVER HAVE I EVER: 'I'VE KISSED SOMEONE IN",
     "difficulty": "BLACK",
-    "description": "Invite a willing person to pose for an absurd fully clothed, clearly non-sexual perspective-trick photo.",
+    "description": "Never Have I Ever: 'I've kissed someone in an unexpected public place.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1289,9 +1289,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-040",
-    "title": "CHOOSE TWO PLAYERS FOR A NO-FILTER ROUND",
+    "title": "NEVER HAVE I EVER: 'I'VE HAD A ONE-NIGHT",
     "difficulty": "BLACK",
-    "description": "Choose two players for a no-filter round of three spicy dating questions.",
+    "description": "Never Have I Ever: 'I've had a one-night romance on holiday.' Optional sip if true.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1302,9 +1302,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-041",
-    "title": "HAVE A FULL DIRTY CONVERSATION WITH A",
+    "title": "NOMINATE THREE PEOPLE: EACH REVEALS A SCANDALOUS CRUSH",
     "difficulty": "BLACK",
-    "description": "Have a full dirty conversation with a stranger where you both admit what you’d do if you had a room right now.",
+    "description": "Nominate three people: each reveals a scandalous crush or chooses an optional sip.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1315,9 +1315,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-042",
-    "title": "ASK SOMEONE TO PULL YOUR HAIR DURING",
+    "title": "CHOOSE ONE PLAYER FOR A HEAD-TO-HEAD ROUND OF",
     "difficulty": "BLACK",
-    "description": "Ask someone to pull your hair during a kiss.",
+    "description": "Choose one player for a head-to-head round of three outrageous Never Have I Ever statements.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1328,9 +1328,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-043",
-    "title": "TELL THE GROUP WHO HERE YOU'D MOST",
+    "title": "ASK EVERYONE WHO HAS EVER KISSED A FRIEND'S",
     "difficulty": "BLACK",
-    "description": "Tell the group who here you'd most want to kiss and why.",
+    "description": "Ask everyone who has ever kissed a friend's ex to raise a hand; optional sip.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1341,9 +1341,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-044",
-    "title": "INVITE A WILLING ADULT TO POSE FOR",
+    "title": "ASK EVERYONE WHO'S EVER GHOSTED SOMEONE TO REVEAL",
     "difficulty": "BLACK",
-    "description": "Invite a willing adult to pose for an over-the-top movie-poster photo, keeping it playful and fully clothed.",
+    "description": "Ask everyone who's ever ghosted someone to reveal why or choose an optional sip.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1354,9 +1354,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-045",
-    "title": "ASK A PERSON IF YOU CAN SMELL",
+    "title": "PICK TWO FRIENDS AND MAKE THEM REVEAL THE",
     "difficulty": "BLACK",
-    "description": "Ask a person if you can smell their neck / hair up close while you talk.",
+    "description": "Pick two friends and make them reveal the worst pickup line they've ever used.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1367,9 +1367,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-046",
-    "title": "LET THE GROUP CHOOSE THREE PEOPLE. RANK",
+    "title": "RUN A SECRET-CRUSH POLL: EVERYONE POINTS TO THE",
     "difficulty": "BLACK",
-    "description": "Let the group choose three people. Rank their flirting skills, then explain your choices.",
+    "description": "Run a secret-crush poll: everyone points to the person with the strongest game.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1380,9 +1380,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-047",
-    "title": "GET A STRANGER TO LET YOU WHISPER",
+    "title": "CHOOSE THREE PLAYERS FOR 'MOST LIKELY TO BREAK",
     "difficulty": "BLACK",
-    "description": "Get a stranger to let you whisper a countdown and then kiss them exactly when you reach zero.",
+    "description": "Choose three players for 'most likely to break hearts'; each can defend themselves.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1393,9 +1393,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-048",
-    "title": "ASK SOMEONE TO SHOW YOU HOW THEY",
+    "title": "GET SOMEONE TO TELL THE STORY BEHIND THEIR",
     "difficulty": "BLACK",
-    "description": "Ask someone to show you how they kiss when they’re really turned on.",
+    "description": "Get someone to tell the story behind their most unforgettable kiss.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1406,9 +1406,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-049",
-    "title": "REVEAL YOUR MOST CHAOTIC ROMANTIC ENCOUNTER IN",
+    "title": "ASK THE GROUP WHOSE DATING HISTORY WOULD MAKE",
     "difficulty": "BLACK",
-    "description": "Reveal your most chaotic romantic encounter in sixty seconds.",
+    "description": "Ask the group whose dating history would make the wildest reality show.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1419,9 +1419,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-050",
-    "title": "INVITE A MUTUALLY FLIRTY ADULT TO TRY",
+    "title": "REVEAL THE ONE ROMANTIC SECRET YOU'VE ALWAYS WANTED",
     "difficulty": "BLACK",
-    "description": "Invite a mutually flirty adult to try a 2-minute silent eye-contact challenge, with no touching required.",
+    "description": "Reveal the one romantic secret you've always wanted to tell this crew.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1432,9 +1432,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-051",
-    "title": "ANNOUNCE A BOLD PLAN TO MAKE A",
+    "title": "PLAY THREE ROUNDS OF 'KISS, DATE, PASS' WITH",
     "difficulty": "BLACK",
-    "description": "Announce a bold plan to make a romantic connection before the next bar, then make a respectful approach; their answer is theirs.",
+    "description": "Play three rounds of 'kiss, date, pass' with celebrity crushes chosen by the group.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1445,9 +1445,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-052",
-    "title": "ASK SOMEONE YOU'RE ATTRACTED TO FOR A",
+    "title": "CHALLENGE ANOTHER PLAYER TO REVEAL THEIR MESSIEST DATE",
     "difficulty": "BLACK",
-    "description": "Ask someone you're attracted to for a kiss.",
+    "description": "Challenge another player to reveal their messiest date story.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1458,9 +1458,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-053",
-    "title": "INVITE TWO WILLING ADULTS TO JOIN A",
+    "title": "PICK A FRIEND AND GUESS THEIR BIGGEST SECRET",
     "difficulty": "BLACK",
-    "description": "Invite two willing adults to join a quick theatrical group pose, with physical contact only if everyone wants it.",
+    "description": "Pick a friend and guess their biggest secret dating dealbreaker.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1471,9 +1471,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-054",
-    "title": "KISS SOMEONE, STOP, ASK “HARDER OR SOFTER?”",
+    "title": "ASK THREE PEOPLE THEIR BOLDEST ROMANTIC CONFESSION, ONE",
     "difficulty": "BLACK",
-    "description": "Kiss someone, stop, ask “harder or softer?”, then give them exactly what they say.",
+    "description": "Ask three people their boldest romantic confession, one at a time.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1484,9 +1484,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-055",
-    "title": "PICK A PLAYER AND TRADE YOUR MOST",
+    "title": "REVEAL THE MOST FLIRTATIOUS THING YOU'VE DONE TO",
     "difficulty": "BLACK",
-    "description": "Pick a player and trade your most outrageous dating confessions.",
+    "description": "Reveal the most flirtatious thing you've done to get someone's attention.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1497,9 +1497,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-056",
-    "title": "ASK A MUTUALLY INTERESTED ADULT IF THEY",
+    "title": "NOMINATE TWO PLAYERS FOR A DRAMATIC, IMPROVISED FIRST-DATE",
     "difficulty": "BLACK",
-    "description": "Ask a mutually interested adult if they would like to explore the chemistry by talking in a quieter, appropriate public space.",
+    "description": "Nominate two players for a dramatic, improvised first-date scene.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1510,9 +1510,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-057",
-    "title": "INVITE SOMEONE TO A CHEEKY, CONSENT-FIRST FLIRTATION",
+    "title": "ASK THE PERSON YOU'RE CRUSHING ON THEIR BOLDEST",
     "difficulty": "BLACK",
-    "description": "Invite someone to a cheeky, consent-first flirtation challenge; keep it hands-free and mutually welcome.",
+    "description": "Ask the person you're crushing on their boldest romantic fantasy date.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1523,9 +1523,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-058",
-    "title": "START A ROUND OF NEVER HAVE I",
+    "title": "REVEAL WHETHER YOU'VE EVER BEEN CAUGHT SNEAKING OUT",
     "difficulty": "BLACK",
-    "description": "Start a round of Never Have I Ever with three spicy relationship revelations.",
+    "description": "Reveal whether you've ever been caught sneaking out after a date.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1536,9 +1536,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-059",
-    "title": "ASK THE PERSON YOU ARE MOST ATTRACTED",
+    "title": "HAVE THE GROUP RANK THE THREE MOST OUTRAGEOUS",
     "difficulty": "BLACK",
-    "description": "Ask the person you are most attracted to if they would like to keep hanging out or exchange contacts, without pressure.",
+    "description": "Have the group rank the three most outrageous dating stories told tonight.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
@@ -1549,9 +1549,9 @@ window.SIDEQUEST_QUESTS = [
   },
   {
     "id": "BLK-060",
-    "title": "MAKE THREE RESPECTFUL FLIRTY APPROACHES AND ASK",
+    "title": "CHOOSE A PLAYER TO SET A SPICY NEVER",
     "difficulty": "BLACK",
-    "description": "Make three respectful flirty approaches and ask for one number before the final bar; a no counts as a completed approach.",
+    "description": "Choose a player to set a spicy Never Have I Ever statement for everyone.",
     "completion": "Complete the challenge.",
     "points": 5,
     "tags": [
