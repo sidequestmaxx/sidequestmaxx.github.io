@@ -7,3 +7,25 @@
 @media(max-width:450px){.topbar{padding:17px 19px}.brand{font-size:28px}.edition{font-size:8px;letter-spacing:1px}.edition-no{display:none}.site-footer{padding:16px 19px;font-size:8px}.hero-bottom{grid-template-columns:1fr}.hero-ornament{display:none}.hero{min-height:63dvh}.hero .display{font-size:clamp(58px,16vw,110px)}.awards-grid{grid-template-columns:1fr}.page-header .section-title{font-size:44px}.join-input .btn{padding:12px 15px}.quest-description{font-size:17px}.dual{gap:8px}.dual .btn{font-size:10px;padding:12px 8px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
 .site-footer{display:none}.queue-heading{font:700 clamp(25px,5vw,36px) Impact,'Arial Black',sans-serif;margin:32px 0 14px;color:var(--cream)}.queue-card{border:1px solid var(--line);background:linear-gradient(140deg,#291d20,#1c1518);border-radius:17px;padding:19px;margin:12px 0}.queue-top{display:flex;justify-content:space-between;align-items:center;gap:12px}.queue-card h3{font:700 clamp(26px,6vw,39px) Impact,'Arial Black',sans-serif;margin:16px 0 8px;overflow-wrap:anywhere}.queue-quest{color:var(--cream);font-weight:800;line-height:1.4;font-size:15px;margin:0 0 8px}.queue-actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:16px}.queue-actions .btn{flex:1;min-width:90px}@media(max-width:420px){.nav-item{font-size:8px;letter-spacing:.3px}.nav-glyph{font-size:17px}.queue-actions .btn{font-size:10px;padding:11px 9px}}
+
+/* Monochrome BLACK quest mode */
+body.blackout-mode{--bg:#050505;--surface:#111;--surface-2:#222;--cream:#f7f7f5;--cream-low:#ccc;--muted:#aaa;--orange:#fff;--orange-soft:#fff;--line:#444;background:#050505;color:#fff;transition:background .25s}
+body.blackout-mode .app-shell:before{background:none}
+body.blackout-mode .topbar{background:#050505;border-bottom-color:#333}
+body.blackout-mode .brand-cross,body.blackout-mode .edition-no,body.blackout-mode .top-link{color:#fff}
+body.blackout-mode .pulse-dot{background:#fff;box-shadow:none}
+body.blackout-mode .quest-card.black{background:linear-gradient(145deg,#171717,#070707);border:1px solid #666;border-radius:4px;box-shadow:0 20px 75px #000b}
+body.blackout-mode .quest-card:before{content:"18+";font:900 190px Impact,sans-serif;color:#fff;opacity:.045;right:-12px;top:15px}
+body.blackout-mode .quest-card .quest-title,body.blackout-mode .quest-description{color:#fff}
+body.blackout-mode .quest-condition{border-top-color:#555;color:#ccc}
+body.blackout-mode .quest-condition strong{color:#fff!important}
+body.blackout-mode .tag.black{background:#fff;color:#000}
+body.blackout-mode .btn-primary{background:#fff;color:#000}
+body.blackout-mode .btn-outline{border-color:#777;color:#fff}
+body.blackout-mode .btn-muted{background:#252525;color:#fff}
+body.blackout-mode .bottom-nav{background:#090909f5;border-top-color:#333}
+body.blackout-mode .nav-item.active{background:#252525;color:#fff}
+.blackout-intro{display:flex;align-items:center;gap:13px;margin:18px 0 0;color:#fff}
+.blackout-intro strong{font:900 30px Impact,sans-serif;line-height:1;border:2px solid #fff;padding:8px 10px}
+.blackout-intro span{font-size:10px;font-weight:900;letter-spacing:2px;line-height:1.6}
+@media(prefers-reduced-motion:reduce){body.blackout-mode{transition:none}}
