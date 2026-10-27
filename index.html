@@ -1,1 +1,35 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#151013">
+  <meta name="description" content="SIDEQUEST MAXXING. One night. Your people. Unforgettable side quests.">
+  <title>SIDEQUEST MAXXING — No quests. No glory.</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%23151013'/%3E%3Ctext x='32' y='45' text-anchor='middle' font-size='36'%3E%F0%9F%8E%83%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./quests.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button id="logo" class="brand" type="button" aria-label="Sidequest Maxxing home">SQ<span class="brand-cross">✳</span></button>
+      <div class="edition"><span class="pulse-dot" aria-hidden="true"></span> HALLOWEEN EDITION <span class="edition-no">/ 01</span></div>
+      <button id="headerRank" class="top-link" type="button" hidden>RANKS <span aria-hidden="true">↗</span></button>
+    </header>
+    <main id="app" class="main" aria-live="polite" aria-atomic="false">
+      <div class="boot"><span class="loading-orbit" aria-hidden="true">✳</span><p>SUMMONING THE CHAOS…</p></div>
+    </main>
+    <nav id="bottomNav" class="bottom-nav" aria-label="Game navigation" hidden>
+      <button type="button" data-nav="play" class="nav-item"><span class="nav-glyph">✳</span><span>PLAY</span></button>
+      <button type="button" data-nav="leaderboard" class="nav-item"><span class="nav-glyph">▥</span><span>RANKS</span></button>
+      <button type="button" data-nav="finale" class="nav-item"><span class="nav-glyph">★</span><span>FAME</span></button>
+      <button type="button" data-nav="host" class="nav-item"><span class="nav-glyph">⚙</span><span>HOST</span></button>
+    </nav>
+    <footer class="site-footer"><span>NO QUESTS. NO GLORY.</span><span>EST. AFTER DARK <span class="star">✳</span></span></footer>
+  </div>
+  <div id="toast" role="status" class="toast" aria-live="polite"></div>
+  <input id="importFile" type="file" accept=".json,application/json" hidden aria-label="Import game backup">
+</body>
+</html>
